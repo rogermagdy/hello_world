@@ -1,2 +1,3 @@
 # hello_world
 1st programming code
+trying to create my first code, no ideas yet ..... help...
